@@ -6,12 +6,12 @@ Tools Used: SQL, Tableau
 This dashboard analyzes flu shot compliance among active hospital patients in 2022. It highlights compliance trends by age and race and visualizes cumulative vaccination progress over the year.
 All data transformations were performed using optimized SQL queries, and the interactive dashboard was built using Tableau.
 
-🎯 Objectives
-✅ Compute compliance percentage stratified by:
+🎯 Objectives <br>
+✅ Compute compliance percentage stratified by: <br>
 1. Age Group
 2. Race
 
-Overall:
+Overall: <br>
 📈 Visualize running total of flu shots given throughout the year
 🔢 Display the total number of flu shots administered in 2022
 🧾 Generate a list of patients showing individual flu shot status
