@@ -42,10 +42,9 @@ Lowest compliance: 18–34 age group (64.8%)
 Highest compliance: 50–64 age group (95.6%)
 Compliance gap of 30.8% between age groups
 
-🌍 By Race
-Highest compliance: Native patients (93.8%)
-Lowest compliance: “Other” racial group (75.0%)
+🌍 By Race <br>
+Highest compliance: Native patients (93.8%) <br>
+Lowest compliance: “Other” racial group (75.0%) <br>
 
-📈 Running Total Trend
-Flu shots steadily increased from January to November,
-showing consistent monthly uptake and progress toward compliance goals.
+📈 Running Total Trend <br>
+Flu shots steadily increased from January to November, showing consistent monthly uptake and progress toward compliance goals.
